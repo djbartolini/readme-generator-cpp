@@ -1,3 +1,9 @@
+# dist
 dist/*
 
+# code editor
 .vscode/
+*.dSYM
+
+# binaries
+generator
